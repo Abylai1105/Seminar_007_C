@@ -1,0 +1,15 @@
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар007/Task/bin/Debug/net6.0/Task
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар007/Task/bin/Debug/net6.0/Task.deps.json
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар007/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар007/Task/bin/Debug/net6.0/Task.dll
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар007/Task/bin/Debug/net6.0/Task.pdb
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар007/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар007/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар007/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар007/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар007/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар007/Task/obj/Debug/net6.0/Task.dll
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар007/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар007/Task/obj/Debug/net6.0/Task.pdb
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар007/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар007/Task/obj/Debug/net6.0/ref/Task.dll
